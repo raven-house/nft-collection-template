@@ -1,0 +1,29 @@
+{
+  "count": 3,
+  "nfts": [
+    {
+      "name": "Alpha Builder #1",
+      "description": "A visionary protocol engineer leading Aztec's zero-knowledge breakthroughs",
+      "traits": [
+        { "trait_type": "Builder Type", "value": "Protocol Engineer" },
+        { "trait_type": "Core Contributor", "value": true }
+      ]
+    },
+    {
+      "name": "Alpha Builder #2",
+      "description": "A talented frontend developer crafting intuitive user experiences for Aztec applications",
+      "traits": [
+        { "trait_type": "Builder Type", "value": "Frontend Developer" },
+        { "trait_type": "Core Contributor", "value": false }
+      ]
+    },
+    {
+      "name": "Alpha Builder #3",
+      "description": "A cryptography researcher advancing Aztec's privacy-preserving technology",
+      "traits": [
+        { "trait_type": "Builder Type", "value": "Cryptographer" },
+        { "trait_type": "Core Contributor", "value": true }
+      ]
+    }
+  ]
+}
